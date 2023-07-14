@@ -1,0 +1,102 @@
+{
+  "code": "1",
+  "msg": "操作成功",
+  "result": [
+    {
+      "id": "8",
+      "name": "降落傘褲",
+      "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0710/women/w_new.jpg",
+      "saleInfo": "NT$790",
+      "goods": [
+        {
+          "id": "4033959",
+          "name": "圓點緞面細肩帶連身裙",
+          "desc": "俐落的V領設計和適度修身的版型，相當好穿的細肩帶連身裙",
+          "price": "590",
+          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008568/sku/1000/GCL09.jpg",
+          "orderNum": 2141
+        },
+        {
+          "id": "4033960",
+          "name": "重磅oversized休閒開襟外套",
+          "desc": "採用講究的裏起毛材質製成的開襟外套",
+          "price": "590",
+          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008650/main/first/1000/1.jpg",
+          "orderNum": 2124
+        },
+        {
+          "id": "4033960",
+          "name": "重磅oversized休閒開襟外套",
+          "desc": "採用講究的裏起毛材質製成的開襟外套",
+          "price": "590",
+          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008650/main/first/1000/1.jpg",
+          "orderNum": 2124
+        },
+        {
+          "id": "4033960",
+          "name": "重磅oversized休閒開襟外套",
+          "desc": "採用講究的裏起毛材質製成的開襟外套",
+          "price": "590",
+          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008650/main/first/1000/1.jpg",
+          "orderNum": 2124
+        },
+        {
+          "id": "4033960",
+          "name": "重磅oversized休閒開襟外套",
+          "desc": "採用講究的裏起毛材質製成的開襟外套",
+          "price": "590",
+          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008650/main/first/1000/1.jpg",
+          "orderNum": 2124
+        },
+        {
+          "id": "4033960",
+          "name": "重磅oversized休閒開襟外套",
+          "desc": "採用講究的裏起毛材質製成的開襟外套",
+          "price": "590",
+          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008650/main/first/1000/1.jpg",
+          "orderNum": 2124
+        },
+        {
+          "id": "4033960",
+          "name": "重磅oversized休閒開襟外套",
+          "desc": "採用講究的裏起毛材質製成的開襟外套",
+          "price": "590",
+          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008650/main/first/1000/1.jpg",
+          "orderNum": 2124
+        },
+        {
+          "id": "4033960",
+          "name": "重磅oversized休閒開襟外套",
+          "desc": "採用講究的裏起毛材質製成的開襟外套",
+          "price": "590",
+          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008650/main/first/1000/1.jpg",
+          "orderNum": 2124
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "降落傘褲",
+      "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0710/women/w_new.jpg",
+      "saleInfo": "NT$790",
+      "goods": [
+        {
+          "id": "4033959",
+          "name": "3秒快速拆琴轻松保养odin奥丁12半音阶口琴",
+          "desc": "易吹性好按键灵敏音色优美全黑琴身",
+          "price": "329.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/937a8e46a9284e8f7e00e13911ecfbe7.png",
+          "orderNum": 2141
+        },
+        {
+          "id": "4033959",
+          "name": "3秒快速拆琴轻松保养odin奥丁12半音阶口琴",
+          "desc": "易吹性好按键灵敏音色优美全黑琴身",
+          "price": "329.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/937a8e46a9284e8f7e00e13911ecfbe7.png",
+          "orderNum": 2141
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "home": [
+    {
+    "category":[{
+    "head":{
+    "code": "1",
+    "msg": "操作成功",
+    "result": [
+        {
+            "id": "1005000",
+            "name": "WOMEN",
+            "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+            "children": [
+                {
+                    "id": "1005999003",
+                    "name": "外套",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_01.jpg",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "1008017",
+                    "name": "背心",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_02.jpg",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "1017000",
+                    "name": "T恤",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109243003",
+                    "name": "迷你/短版T恤",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109248004",
+                    "name": "印花T恤",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109293000",
+                    "name": "襯衫",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109308000",
+                    "name": "洋裝/連身裙",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "1005999003",
+                    "name": "短褲",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_01.jpg",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "1008017",
+                    "name": "長褲",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_02.jpg",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "1017000",
+                    "name": "工作褲",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109243003",
+                    "name": "裙子",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                }
+            ],
+            "goods": [
+                {
+                    "id": "3997602",
+                    "name": "登山外套",
+                    "desc": "立體連帽及A字剪裁，設計講究的登山外套。前門襟金色設計可降低過於休閒的印象。寬鬆袖設計使手臂更好活動。衣襬抽繩可依照喜好自行調整版型。口袋附翻蓋，物品不易掉落，更加便利！優秀的百搭單品，無論露營、通勤或日常穿著等各種場合都好搭配。",
+                    "price": "1,290",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008561/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "3995284",
+                    "name": "休閒連帽拉鍊外套(長袖)",
+                    "desc": "天氣微涼時最適合當作薄外套穿著的內起毛休閒連帽拉鍊外套。大大的口袋和帽子的拉繩為造型亮點。具有強烈存在感的帽子由兩層布料打造而成，穿著時能保持漂亮的輪廓。相當講究的尺寸設計，戴上時能完全覆蓋頭部。",
+                    "price": "590",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008565/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "3993828",
+                    "name": "附腰帶西裝背心",
+                    "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+                    "price": "390",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "3993481",
+                    "name": "短袖短版外套",
+                    "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+                    "price": "790",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "3992367",
+                    "name": "抗UV連帽拉鍊外套(長袖)",
+                    "desc": "具備抗UV機能的連帽外套，在春季和夏季皆可使用。採用較短的衣長和寬袖的休閒設計，是一款可以作為日常穿著的時尚單品。採用穿著起來輕盈舒適的薄款材質所製成，易於放入包中攜帶。搭配連身裙、裙裝、工裝褲等下裝，即可打造看起來不像運動風的穿搭造型。",
+                    "price": "590",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008090/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "3991840",
+                    "name": "抗UV oversized外套",
+                    "desc": "具UPF50+抗UV機能可阻隔90%以上的紫外線，輕薄材質便於攜帶，是今年夏天推薦的抗UV單品。不僅防曬機能，結合較高立領可用於收納連帽，2WAY設計十分時髦，可依照需求自由變化連帽穿法。衣領有抽繩及調整扣，為頸部增添亮點。衣襬也採用相同細節設計，可穿出氣球般的線條。袖口為彈性設計，可輕鬆捲起增添份量感，增添圓潤感營造甜美印象。",
+                    "price": "390",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007946/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "3987204",
+                    "name": "立領尼龍外套",
+                    "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+                    "price": "290",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "3986121",
+                    "name": "透膚圓領開襟外套(長袖)",
+                    "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+                    "price": "190",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "3997974",
+                    "name": "勾針編織開襟外套(長袖)",
+                    "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+                    "price": "109.00",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                }
+            ]
+        },
+        {
+            "id": "1005002",
+            "name": "MEN",
+            "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+            "children": [
+                {
+                    "id": "1005012",
+                    "name": "外套",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_01.jpg",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "1036003",
+                    "name": "背心",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_02.jpg",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109201001",
+                   "name": "T恤",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109206007",
+                    "name": "迷你/短版T恤",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109264007",
+                    "name": "印花T恤",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109285003",
+                    "name": "襯衫",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                }
+            ],
+            "goods": [
+                {
+                    "id": "3457682",
+                    "name": "登山外套",
+                    "desc": "立體連帽及A字剪裁，設計講究的登山外套。前門襟金色設計可降低過於休閒的印象。寬鬆袖設計使手臂更好活動。衣襬抽繩可依照喜好自行調整版型。口袋附翻蓋，物品不易掉落，更加便利！優秀的百搭單品，無論露營、通勤或日常穿著等各種場合都好搭配。",
+                    "price": "1,290",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008561/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "7974232",
+                    "name": "休閒連帽拉鍊外套(長袖)",
+                    "desc": "天氣微涼時最適合當作薄外套穿著的內起毛休閒連帽拉鍊外套。大大的口袋和帽子的拉繩為造型亮點。具有強烈存在感的帽子由兩層布料打造而成，穿著時能保持漂亮的輪廓。相當講究的尺寸設計，戴上時能完全覆蓋頭部。",
+                    "price": "590",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008565/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "7352547",
+                    "name": "附腰帶西裝背心",
+                    "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+                    "price": "390",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "4347386",
+                    "name": "短袖短版外套",
+                    "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+                    "price": "790",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "7864253",
+                    "name": "抗UV連帽拉鍊外套(長袖)",
+                    "desc": "具備抗UV機能的連帽外套，在春季和夏季皆可使用。採用較短的衣長和寬袖的休閒設計，是一款可以作為日常穿著的時尚單品。採用穿著起來輕盈舒適的薄款材質所製成，易於放入包中攜帶。搭配連身裙、裙裝、工裝褲等下裝，即可打造看起來不像運動風的穿搭造型。",
+                    "price": "590",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008090/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "2537797",
+                    "name": "抗UV oversized外套",
+                    "desc": "具UPF50+抗UV機能可阻隔90%以上的紫外線，輕薄材質便於攜帶，是今年夏天推薦的抗UV單品。不僅防曬機能，結合較高立領可用於收納連帽，2WAY設計十分時髦，可依照需求自由變化連帽穿法。衣領有抽繩及調整扣，為頸部增添亮點。衣襬也採用相同細節設計，可穿出氣球般的線條。袖口為彈性設計，可輕鬆捲起增添份量感，增添圓潤感營造甜美印象。",
+                    "price": "390",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007946/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "2737954",
+                    "name": "立領尼龍外套",
+                    "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+                    "price": "290",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "9723457",
+                    "name": "透膚圓領開襟外套(長袖)",
+                    "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+                    "price": "190",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "5343348",
+                    "name": "勾針編織開襟外套(長袖)",
+                    "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+                    "price": "109.00",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                }
+            ]
+        },
+        {
+            "id": "1010000",
+            "name": "SPORTS",
+            "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+            "children": [
+                {
+                    "id": "1005412",
+                    "name": "外套",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_01.jpg",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "1036903",
+                    "name": "背心",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_02.jpg",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109601001",
+                   "name": "T恤",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109206077",
+                    "name": "迷你/短版T恤",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109254007",
+                    "name": "印花T恤",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                },
+                {
+                    "id": "109285053",
+                   "name": "襯衫",
+                    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+                    "children": null,
+                    "goods": null
+                }
+            ],
+            "goods": [
+                {
+                    "id": "3434682",
+                    "name": "登山外套",
+                    "desc": "立體連帽及A字剪裁，設計講究的登山外套。前門襟金色設計可降低過於休閒的印象。寬鬆袖設計使手臂更好活動。衣襬抽繩可依照喜好自行調整版型。口袋附翻蓋，物品不易掉落，更加便利！優秀的百搭單品，無論露營、通勤或日常穿著等各種場合都好搭配。",
+                    "price": "1,290",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008561/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "7973732",
+                    "name": "休閒連帽拉鍊外套(長袖)",
+                    "desc": "天氣微涼時最適合當作薄外套穿著的內起毛休閒連帽拉鍊外套。大大的口袋和帽子的拉繩為造型亮點。具有強烈存在感的帽子由兩層布料打造而成，穿著時能保持漂亮的輪廓。相當講究的尺寸設計，戴上時能完全覆蓋頭部。",
+                    "price": "590",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008565/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "7352847",
+                    "name": "附腰帶西裝背心",
+                    "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+                    "price": "390",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "4677386",
+                    "name": "短袖短版外套",
+                    "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+                    "price": "790",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "7864245",
+                    "name": "抗UV連帽拉鍊外套(長袖)",
+                    "desc": "具備抗UV機能的連帽外套，在春季和夏季皆可使用。採用較短的衣長和寬袖的休閒設計，是一款可以作為日常穿著的時尚單品。採用穿著起來輕盈舒適的薄款材質所製成，易於放入包中攜帶。搭配連身裙、裙裝、工裝褲等下裝，即可打造看起來不像運動風的穿搭造型。",
+                    "price": "590",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008090/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "2543797",
+                    "name": "抗UV oversized外套",
+                    "desc": "具UPF50+抗UV機能可阻隔90%以上的紫外線，輕薄材質便於攜帶，是今年夏天推薦的抗UV單品。不僅防曬機能，結合較高立領可用於收納連帽，2WAY設計十分時髦，可依照需求自由變化連帽穿法。衣領有抽繩及調整扣，為頸部增添亮點。衣襬也採用相同細節設計，可穿出氣球般的線條。袖口為彈性設計，可輕鬆捲起增添份量感，增添圓潤感營造甜美印象。",
+                    "price": "390",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007946/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "2737756",
+                    "name": "立領尼龍外套",
+                    "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+                    "price": "290",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "9762357",
+                    "name": "透膚圓領開襟外套(長袖)",
+                    "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+                    "price": "190",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                },
+                {
+                    "id": "5347348",
+                    "name": "勾針編織開襟外套(長袖)",
+                    "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+                    "price": "109.00",
+                    "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+                    "discount": null,
+                    "orderNum": null
+                }
+            ]
+        }
+    ]
+}
+}] ,
+      "hot":[{
+        
+    "code": "1",
+    "msg": "操作成功",
+    "result": [
+        {
+            "id": "1001",
+            "picture": "https://yjy-oss-files.oss-cn-zhangjiakou.aliyuncs.com/tuxian/popular_1.jpg",
+            "title": "特惠推薦",
+            "alt": "它們最實惠"
+        },
+        {
+            "id": "1002",
+            "picture": "https://yjy-oss-files.oss-cn-zhangjiakou.aliyuncs.com/tuxian/popular_2.jpg",
+            "title": "爆款推薦",
+            "alt": "它們最受歡迎"
+        },
+        {
+            "id": "1003",
+            "picture": "https://yjy-oss-files.oss-cn-zhangjiakou.aliyuncs.com/tuxian/popular_3.jpg",
+            "title": "一站買全",
+            "alt": "使用場景下精心優選"
+        },
+        {
+            "id": "1004",
+            "picture": "https://yjy-oss-files.oss-cn-zhangjiakou.aliyuncs.com/tuxian/popular_4.jpg",
+            "title": "領券中心",
+            "alt": "更多超值優惠券"
+        }
+    ]
+}],
+      "brand": [{
+        
+    "code": "1",
+    "msg": "操作成功",
+    "result": [
+        {
+            "id": "8",
+            "name": "碩華品質",
+            "nameEn": "SH",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/a25d210a-cf3d-49f5-9006-5c1e7c563bb9.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/a25d210a-cf3d-49f5-9006-5c1e7c563bb9.jpg",
+            "type": null,
+            "desc": "good",
+            "place": "中國江蘇傳智"
+        },
+        {
+            "id": "6",
+            "name": "CZ永在",
+            "nameEn": "yongzai",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/b5fd7624-1d1e-4ed9-b739-a8f44f2d08fc.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/b5fd7624-1d1e-4ed9-b739-a8f44f2d08fc.jpg",
+            "type": null,
+            "desc": "連接你我",
+            "place": "中國江蘇傳智"
+        },
+        {
+            "id": "1",
+            "name": "詠漢定制",
+            "nameEn": "yh",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/fdbc5113-dcca-4b7f-b1d6-c51faf8e3de9.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/fdbc5113-dcca-4b7f-b1d6-c51faf8e3de9.jpg",
+            "type": null,
+            "desc": "優秀的品牌，優秀的傳揚",
+            "place": "中國江蘇傳智"
+        },
+        {
+            "id": "2",
+            "name": "ICCUG",
+            "nameEn": "iccu",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cc95ddbf-f2f8-4c48-9845-0c5364557198.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cc95ddbf-f2f8-4c48-9845-0c5364557198.jpg",
+            "type": null,
+            "desc": "知識就是力量",
+            "place": "中國北京順義"
+        },
+        {
+            "id": "3",
+            "name": "釉色美顏",
+            "nameEn": "ysmy",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cdeaf7eb-a68f-485c-9fc3-82358ebed83b.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/cdeaf7eb-a68f-485c-9fc3-82358ebed83b.jpg",
+            "type": null,
+            "desc": "學霸的魅力",
+            "place": "中國北京順義"
+        },
+        {
+            "id": "4",
+            "name": "綠蔭",
+            "nameEn": "ly",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/bb0411c8-0407-460b-9db2-e1ca377d7227.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/bb0411c8-0407-460b-9db2-e1ca377d7227.jpg",
+            "type": null,
+            "desc": "一寸光陰一寸金",
+            "place": "中國北京順義"
+        },
+        {
+            "id": "5",
+            "name": "永久",
+            "nameEn": "yongjiu",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/b0941d16-a466-4f23-bbf4-90f818298abb.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/b0941d16-a466-4f23-bbf4-90f818298abb.jpg",
+            "type": null,
+            "desc": "我的心，你的永",
+            "place": "中國北京順義"
+        },
+        {
+            "id": "spider99999999999",
+            "name": "傳智自有品牌",
+            "nameEn": "chuanzhi",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/7f6a7b20-7902-4b43-b9c5-f33151ef1334.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/7f6a7b20-7902-4b43-b9c5-f33151ef1334.jpg",
+            "type": null,
+            "desc": "小兔鮮-傳智教育最棒",
+            "place": "中國江蘇傳智"
+        },
+        {
+            "id": "7",
+            "name": "DDAO",
+            "nameEn": "DA",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/4f998a72-6c37-44fc-bb28-c017541868e8.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/4f998a72-6c37-44fc-bb28-c017541868e8.jpg",
+            "type": null,
+            "desc": "用心傳承",
+            "place": "中國江蘇傳智"
+        },
+        {
+            "id": "9",
+            "name": "黛兒",
+            "nameEn": "DR",
+            "logo": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/07b52b63-d128-491f-b55e-ad9192a6baeb.jpg",
+            "picture": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-22/07b52b63-d128-491f-b55e-ad9192a6baeb.jpg",
+            "type": null,
+            "desc": "優美贊",
+            "place": "中國江蘇傳智"
+        }
+    ]
+}],
+      "banner":[{
+    "code": "1",
+    "msg": "操作成功",
+    "result": [
+        {
+            "id": "16",
+            "imgUrl": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/dfc11bb0-4af5-4e9b-9458-99f615cc685a.jpg",
+            "hrefUrl": "/category/1005000",
+            "type": "1"
+        },
+        {
+            "id": "18",
+            "imgUrl": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/1ba86bcc-ae71-42a3-bc3e-37b662f7f07e.jpg",
+            "hrefUrl": "/category/1013001",
+            "type": "1"
+        },
+        {
+            "id": "19",
+            "imgUrl": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/6d202d8e-bb47-4f92-9523-f32ab65754f4.jpg",
+            "hrefUrl": "/category/1013001",
+            "type": "1"
+        },
+        {
+            "id": "20",
+            "imgUrl": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/e83efb1b-309c-46f7-98a3-f1fefa694338.jpg",
+            "hrefUrl": "/category/1005000",
+            "type": "1"
+        },
+        {
+            "id": "17",
+            "imgUrl": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/4a79180a-1a5a-4042-8a77-4db0b9c800a8.jpg",
+            "hrefUrl": "/category/1019000",
+            "type": "1"
+        }
+    ]
+}
+],
+      "new":[{
+    "code": "1",
+    "msg": "操作成功",
+    "result": [
+        {
+            "id": "4008506",
+            "name": "平步青雲財神家居擺件",
+            "desc": "藝術家瞿廣慈作品，手繪上色，禮盒包裝",
+            "price": "646.00",
+            "picture": "https://yanxuan-item.nosdn.127.net/9d5d0083264344b5d85acde13570d025.jpg",
+            "discount": null,
+            "orderNum": 60
+        },
+        {
+            "id": "3996270",
+            "name": "超能裝多功能出行胸包",
+            "desc": "小身材，大容量，時尚出行",
+            "price": "49.00",
+            "picture": "https://yanxuan-item.nosdn.127.net/59b98ddea6422e71de8cec507865984f.png",
+            "discount": null,
+            "orderNum": 15
+        },
+        {
+            "id": "4000464",
+            "name": "趣玩乳酪純PC拉鍊拉杆箱（14/20/24/26寸）",
+            "desc": "萌趣外形，實用功能，開啟愉快旅程",
+            "price": "199.00",
+            "picture": "https://yanxuan-item.nosdn.127.net/ee5ae3974a18a93f3f4704fe70075e10.png",
+            "discount": null,
+            "orderNum": 38
+        },
+        {
+            "id": "3997974",
+            "name": "入門首選，語音播報電子血壓計",
+            "desc": "全程語音指導，一鍵測量，監測心率，貼心守護爸媽健康",
+            "price": "109.00",
+            "picture": "https://yanxuan-item.nosdn.127.net/8f0c15f981c5cbcb1aa17215a259fa62.png",
+            "discount": null,
+            "orderNum": 17
+        }
+    ]
+}
+]
+    }
+  ],
+  "category": [
+    {
+     
+    }
+  ],
+  "goods": [
+    {
+      "stock": [{}]
+      
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "member": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "pay": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
