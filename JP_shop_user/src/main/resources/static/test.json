@@ -2,353 +2,1187 @@
   "code": "1",
   "msg": "操作成功",
   "result": [
-    {
-      "id": "1005000",
-      "name": "WOMEN",
-      "picture": "https://www.gu-global.com/tw/public/gutw/feature/2023/summer_must_buy_women/0626/03_model_01_pc.jpg",
-      "saleInfo": "抗UV系列",
-      "children": [
-        {
-          "id": "1005999003",
-          "name": "外套",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "1008017",
-          "name": "背心",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "1017000",
-          "name": "T恤",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109243003",
-          "name": "迷你/短版T恤",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109248004",
-          "name": "印花T恤",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109293000",
-          "name": "襯衫",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109308000",
-          "name": "洋裝/連身裙",
-          "layer": 2,
-          "parent": null
-        }
-      ],
-      "goods": [
-        {
-          "id": "4033959",
-          "name": "降落傘工作褲",
-          "desc": "一穿上立即時髦有型的降落傘工作褲",
-          "price": "790",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008440/main/first/1000/1.jpg",
-          "orderNum": 2141
-        },
-        {
-          "id": "3995885",
-          "name": "工作輕便褲",
-          "desc": "腰部俐落顯瘦褲腳具有恰到好處份量感的時髦工裝褲",
-          "price": "590",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008036/main/first/1000/1.jpg",
-          "orderNum": 541
-        },
-        {
-          "id": "4001798",
-          "name": "輕型牛仔寬褲",
-          "desc": "以輕磅牛仔材質製成的寬褲，是每年的必備單品",
-          "price": "590",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007865/main/first/1000/1.jpg",
-          "orderNum": 249
-        },
-        {
-          "id": "3995913",
-          "name": "削肩坦克背心",
-          "desc": "兼具舒適度及時髦健康露肌造型的坦克背心",
-          "price": "190",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007915/main/other2/1000/3.jpg",
-          "orderNum": 160
-        },
-        {
-          "id": "3995284",
-          "name": "緞面細肩帶連身裙",
-          "desc": "適度修身的版型和俐落的V領設計，穿搭範圍相當廣泛的細肩帶連身裙",
-          "price": "590",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008531/main/other1/1000/2.jpg",
-          "orderNum": 2452
-        },
-        {
-          "id": "4008506",
-          "name": "垂墜襯衫(短袖)",
-          "desc": "以袖口打褶及無車線衣領打造高雅印象的襯衫",
-          "price": "290",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007857/main/other4/1000/5.jpg",
-          "orderNum": 2471
-        },
-        {
-          "id": "3993481",
-          "name": "網眼編織針織上衣(無袖)",
-          "desc": "寬鬆網眼編織的針織上衣，別具魅力",
-          "price": "590",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008255/main/first/1000/1.jpg",
-          "orderNum": 249
-        },
-        {
-          "id": "4001880",
-          "name": "燈籠袖T恤(5分袖)",
-          "desc": "採用澎袖設計的T恤，燈籠狀的袖子不易顯露身形",
-          "price": "590",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007990/main/other1/1000/2.jpg",
-          "orderNum": 154
-        }
-      ]
-    },
-    {
-      "id": "1005002",
-      "name": "MEN",
-      "picture": "https://www.gu-global.com/tw/public/gutw/feature/2023/shirtsstyling_men/0605/model_01_1_pc_2.jpg",
-      "saleInfo": "快乾機能襯衫",
-      "children": [
-        {
-          "id": "1005999003",
-          "name": "外套",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "1008017",
-          "name": "背心",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "1017000",
-          "name": "T恤",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109243003",
-          "name": "迷你/短版T恤",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109248004",
-          "name": "印花T恤",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109293000",
-          "name": "襯衫",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109308000",
-          "name": "洋裝/連身裙",
-          "layer": 2,
-          "parent": null
-        }
-      ],
-      "goods": [
-        {
-          "id": "4000295",
-          "name": "DRY開領襯衫(5分袖)",
-          "desc": "簡約時尚的設計，雅致意趣",
-          "price": "590",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007770/main/first/1000/1.jpg",
-          "orderNum": 210
-        },
-        {
-          "id": "4001920",
-          "name": "足球T恤(5分袖)",
-          "desc": "採用由不易起毛的精梳紗所製成的天竺材質製作",
-          "price": "390",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008389/main/first/1000/1.jpg",
-          "orderNum": 185
-        },
-        {
-          "id": "3995885",
-          "name": "棉質圓領T恤(短袖)",
-          "desc": "簡約百搭的時尚素T",
-          "price": "99",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007546/main/first/1000/1.jpg",
-          "orderNum": 541
-        },
-        {
-          "id": "3998106",
-          "name": "oversized牛仔工作襯衫(5分袖)",
-          "desc": "魅力十足的微落肩寬版設計襯衫",
-          "price": "590",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008070/main/first/1000/1.jpg",
-          "orderNum": 248
-        },
-        {
-          "id": "3997547",
-          "name": "超寬版工作褲",
-          "desc": "男女皆適穿的超寬版工作褲",
-          "price": "790",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008274/main/first/1000/1.jpg",
-          "orderNum": 265
-        },
-        {
-          "id": "3407009",
-          "name": "DRY羅馬布圓領T(5分袖)",
-          "desc": "寬鬆度恰到好處的寬版圓領T恤",
-          "price": "390",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007582/main/first/1000/1.jpg",
-          "orderNum": 120
-        },
-        {
-          "id": "3419049",
-          "name": "多色運動短褲",
-          "desc": "附防潑水機能，適合各式各樣運動場合的短褲",
-          "price": "290",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008061/main/first/1000/1.jpg",
-          "orderNum": 135
-        },
-        {
-          "id": "3399000",
-          "name": "牛津寬鬆襯衫(5分袖)",
-          "desc": "可洗練可休閒，穿起來時髦有型的萬用襯衫",
-          "price": "590",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007816/main/other1/1000/2.jpg",
-          "orderNum": 143
-        }
-      ]
-    },
-    {
-      "id": "1010000",
-      "name": "SPORT",
-      "picture": "https://www.gu-global.com/tw/public/gutw/feature/2023/gu_active/women/0116/model_01_6_pc.jpg",
-      "saleInfo": "夏日這樣穿",
-      "children": [
-        {
-          "id": "1005999003",
-          "name": "外套",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "1008017",
-          "name": "背心",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "1017000",
-          "name": "T恤",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109243003",
-          "name": "迷你/短版T恤",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109248004",
-          "name": "印花T恤",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109293000",
-          "name": "襯衫",
-          "layer": 2,
-          "parent": null
-        },
-        {
-          "id": "109308000",
-          "name": "洋裝/連身裙",
-          "layer": 2,
-          "parent": null
-        }
-      ],
-      "goods": [
-        {
-          "id": "4000102",
-          "name": "運動胸罩GA",
-          "desc": "親膚度佳，穿起來相當舒適的運動胸罩",
-          "price": "390",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007793/main/first/1000/1.jpg",
-          "orderNum": 130
-        },
-        {
-          "id": "3996616",
-          "name": "運動短版坦克背心GA+E",
-          "desc": "附罩杯的短版坦克背心",
-          "price": "390",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008596/main/first/1000/1.jpg",
-          "orderNum": 147
-        },
-        {
-          "id": "4013716",
-          "name": "運動胸罩GA+E",
-          "desc": "可單穿的簡約風運動胸罩",
-          "price": "390",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008595/main/other2/1000/3.jpg",
-          "orderNum": 258
-        },
-        {
-          "id": "4000620",
-          "name": "DRY彈性短褲GA+X",
-          "desc": "可單穿或當作內搭褲來使用的短褲",
-          "price": "290",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008600/main/first/1000/1.jpg",
-          "orderNum": 200
-        },
-        {
-          "id": "4001285",
-          "name": "抗UV連帽拉鍊外套(長袖)",
-          "desc": "具備抗UV機能的連帽外套，在春季和夏季皆可使用",
-          "price": "590",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008090/main/first/1000/1.jpg",
-          "orderNum": 164
-        },
-        {
-          "id": "4019910",
-          "name": "立領尼龍外套GA+X",
-          "desc": "具光澤感的時髦款式立領尼龍外套",
-          "price": "190",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/main/first/1000/1.jpg",
-          "orderNum": 152
-        },
-        {
-          "id": "4000914",
-          "name": "STYLE-ORGANIC羅紋細肩帶背心",
-          "desc": "深色衣物可能會掉色，請勿與其他衣物一同洗滌",
-          "price": "90",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007707/main/first/1000/1.jpg",
-          "orderNum": 844
-        },
-        {
-          "id": "4000422",
-          "name": "multi-tech短褲GA+E",
-          "desc": "在海邊或泳池都可穿著的短褲",
-          "price": "190",
-          "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008172/main/first/1000/1.jpg",
-          "orderNum": 139
-        }
-      ]
-    }
-  ]
+  {
+    "id": "1005000",
+    "name": "WOMEN",
+    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+    "children": [
+      {
+        "id": "1005999003",
+        "name": "外套",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_01.jpg",
+        "parentId": null,
+        "parentName": null,
+        "goods": [
+          {
+            "id": "3997602",
+            "name": "登山外套",
+            "desc": "立體連帽及A字剪裁，設計講究的登山外套。前門襟金色設計可降低過於休閒的印象。寬鬆袖設計使手臂更好活動。衣襬抽繩可依照喜好自行調整版型。口袋附翻蓋，物品不易掉落，更加便利！優秀的百搭單品，無論露營、通勤或日常穿著等各種場合都好搭配。",
+            "price": "1,290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008561/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": 47
+          },
+          {
+            "id": "3995284",
+            "name": "休閒連帽拉鍊外套(長袖)",
+            "desc": "天氣微涼時最適合當作薄外套穿著的內起毛休閒連帽拉鍊外套。大大的口袋和帽子的拉繩為造型亮點。具有強烈存在感的帽子由兩層布料打造而成，穿著時能保持漂亮的輪廓。相當講究的尺寸設計，戴上時能完全覆蓋頭部。",
+            "price": "590",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008565/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": 27
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3992367",
+            "name": "抗UV連帽拉鍊外套(長袖)",
+            "desc": "具備抗UV機能的連帽外套，在春季和夏季皆可使用。採用較短的衣長和寬袖的休閒設計，是一款可以作為日常穿著的時尚單品。採用穿著起來輕盈舒適的薄款材質所製成，易於放入包中攜帶。搭配連身裙、裙裝、工裝褲等下裝，即可打造看起來不像運動風的穿搭造型。",
+            "price": "590",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008090/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3991840",
+            "name": "抗UV oversized外套",
+            "desc": "具UPF50+抗UV機能可阻隔90%以上的紫外線，輕薄材質便於攜帶，是今年夏天推薦的抗UV單品。不僅防曬機能，結合較高立領可用於收納連帽，2WAY設計十分時髦，可依照需求自由變化連帽穿法。衣領有抽繩及調整扣，為頸部增添亮點。衣襬也採用相同細節設計，可穿出氣球般的線條。袖口為彈性設計，可輕鬆捲起增添份量感，增添圓潤感營造甜美印象。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007946/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "1008017",
+        "name": "背心",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_02.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "1017000",
+        "name": "T恤",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_03.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "109293000",
+        "name": "襯衫",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_06.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "109308000",
+        "name": "洋裝/連身裙",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_07.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "1008017",
+        "name": "褲子",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_08.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "109243003",
+        "name": "裙子",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_11.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      }
+    ]
+  },
+  {
+    "id": "1005002",
+    "name": "MEN",
+    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+    "children": [
+      {
+        "id": "1005999003",
+        "name": "外套",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_01.jpg",
+        "parentId": null,
+        "parentName": null,
+        "goods": [
+          {
+            "id": "3997602",
+            "name": "登山外套",
+            "desc": "立體連帽及A字剪裁，設計講究的登山外套。前門襟金色設計可降低過於休閒的印象。寬鬆袖設計使手臂更好活動。衣襬抽繩可依照喜好自行調整版型。口袋附翻蓋，物品不易掉落，更加便利！優秀的百搭單品，無論露營、通勤或日常穿著等各種場合都好搭配。",
+            "price": "1,290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008561/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": 47
+          },
+          {
+            "id": "3995284",
+            "name": "休閒連帽拉鍊外套(長袖)",
+            "desc": "天氣微涼時最適合當作薄外套穿著的內起毛休閒連帽拉鍊外套。大大的口袋和帽子的拉繩為造型亮點。具有強烈存在感的帽子由兩層布料打造而成，穿著時能保持漂亮的輪廓。相當講究的尺寸設計，戴上時能完全覆蓋頭部。",
+            "price": "590",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008565/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": 27
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3992367",
+            "name": "抗UV連帽拉鍊外套(長袖)",
+            "desc": "具備抗UV機能的連帽外套，在春季和夏季皆可使用。採用較短的衣長和寬袖的休閒設計，是一款可以作為日常穿著的時尚單品。採用穿著起來輕盈舒適的薄款材質所製成，易於放入包中攜帶。搭配連身裙、裙裝、工裝褲等下裝，即可打造看起來不像運動風的穿搭造型。",
+            "price": "590",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008090/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3991840",
+            "name": "抗UV oversized外套",
+            "desc": "具UPF50+抗UV機能可阻隔90%以上的紫外線，輕薄材質便於攜帶，是今年夏天推薦的抗UV單品。不僅防曬機能，結合較高立領可用於收納連帽，2WAY設計十分時髦，可依照需求自由變化連帽穿法。衣領有抽繩及調整扣，為頸部增添亮點。衣襬也採用相同細節設計，可穿出氣球般的線條。袖口為彈性設計，可輕鬆捲起增添份量感，增添圓潤感營造甜美印象。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007946/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "1008017",
+        "name": "背心",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_02.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "1017000",
+        "name": "T恤",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_03.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "109293000",
+        "name": "襯衫",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_06.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "109308000",
+        "name": "洋裝/連身裙",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_07.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "1008017",
+        "name": "褲子",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_08.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "109243003",
+        "name": "裙子",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_11.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      }
+    ]
+  },
+  {
+    "id": "1010000",
+    "name": "SPORTS",
+    "picture": "https://www.gu-global.com/tw/public/gutw/assets/images/logo_footer.png",
+    "children": [
+      {
+        "id": "1005999003",
+        "name": "外套",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_01.jpg",
+        "parentId": null,
+        "parentName": null,
+        "goods": [
+          {
+            "id": "3997602",
+            "name": "登山外套",
+            "desc": "立體連帽及A字剪裁，設計講究的登山外套。前門襟金色設計可降低過於休閒的印象。寬鬆袖設計使手臂更好活動。衣襬抽繩可依照喜好自行調整版型。口袋附翻蓋，物品不易掉落，更加便利！優秀的百搭單品，無論露營、通勤或日常穿著等各種場合都好搭配。",
+            "price": "1,290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008561/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": 47
+          },
+          {
+            "id": "3995284",
+            "name": "休閒連帽拉鍊外套(長袖)",
+            "desc": "天氣微涼時最適合當作薄外套穿著的內起毛休閒連帽拉鍊外套。大大的口袋和帽子的拉繩為造型亮點。具有強烈存在感的帽子由兩層布料打造而成，穿著時能保持漂亮的輪廓。相當講究的尺寸設計，戴上時能完全覆蓋頭部。",
+            "price": "590",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008565/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": 27
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3992367",
+            "name": "抗UV連帽拉鍊外套(長袖)",
+            "desc": "具備抗UV機能的連帽外套，在春季和夏季皆可使用。採用較短的衣長和寬袖的休閒設計，是一款可以作為日常穿著的時尚單品。採用穿著起來輕盈舒適的薄款材質所製成，易於放入包中攜帶。搭配連身裙、裙裝、工裝褲等下裝，即可打造看起來不像運動風的穿搭造型。",
+            "price": "590",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008090/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3991840",
+            "name": "抗UV oversized外套",
+            "desc": "具UPF50+抗UV機能可阻隔90%以上的紫外線，輕薄材質便於攜帶，是今年夏天推薦的抗UV單品。不僅防曬機能，結合較高立領可用於收納連帽，2WAY設計十分時髦，可依照需求自由變化連帽穿法。衣領有抽繩及調整扣，為頸部增添亮點。衣襬也採用相同細節設計，可穿出氣球般的線條。袖口為彈性設計，可輕鬆捲起增添份量感，增添圓潤感營造甜美印象。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007946/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "1008017",
+        "name": "背心",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_02.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "1017000",
+        "name": "T恤",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_03.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "109293000",
+        "name": "襯衫",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_06.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "109308000",
+        "name": "洋裝/連身裙",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_07.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "1008017",
+        "name": "褲子",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_08.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      },
+      {
+        "id": "109243003",
+        "name": "裙子",
+        "picture": "https://www.gu-global.com/tw/public/gutw/l1/2023/0605/women/category/w_featured_category_11.jpg",
+        "goods": [
+          {
+            "id": "3993828",
+            "name": "附腰帶西裝背心",
+            "desc": "特色十足的背心，可享受流行的多層次穿搭。將袖子調整為法式袖，讓上臂看起來更顯俐落，增添上半身的視覺效果。適合搭配修身、寬版和短款的褲子。亦可搭配長裙來打造穿搭。腰帶為可拆卸的設計，可根據當時的心情將其繫在背後以調節正面的開口度，或當作收腰的設計讓造型的平衡感更佳。",
+            "price": "390",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008189/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3987204",
+            "name": "立領尼龍外套",
+            "desc": "具光澤感的時髦款式立領尼龍外套。時髦百搭的設計，從運動造型到都會穿搭都好搭配。",
+            "price": "290",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007794/sku/1000/GCL31.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3986121",
+            "name": "透膚圓領開襟外套(長袖)",
+            "desc": "每年都備受好評的透膚開襟外套。今年升級為圓領款式，更加適合打造休閒風的穿搭造型。將時下流行的透膚質感融入外套的設計，便利十足。扣上前側的鈕扣即可當作上衣來使用。從春季至夏末皆可使用的百搭單品，造型範圍相當廣泛的設計。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008024/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3997974",
+            "name": "勾針編織開襟外套(長袖)",
+            "desc": "獨特的縷空編織方式，適合融入這個季節的一款開襟外套。採用垂肩設計，更增添隨興感。採用輕盈的材質所製成，具有彈性，穿起來相當舒適。膚觸光滑，可當作外套在春天至秋天長期使用。搭配細肩帶背心、坦克背心或是連身裙即可讓穿搭的造型更加升級。無論是優雅淑女還是休閒風格皆可使用，適合各式各樣的場合。",
+            "price": "190",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000007947/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          },
+          {
+            "id": "3993481",
+            "name": "短袖短版外套",
+            "desc": "帶有恰到好處的寬鬆感，採用亞麻外觀的材質所製成的外套。施以圓袖加工使整體版型較為合身，搭配不同的下裝即可打造正式風格至休閒風格的各種穿搭造型。採用短版衣長，使雙腿更顯修長。具備方便的吸水速乾和接觸涼感機能。推薦搭配不會過於合身且具有成熟風格的下裝，例如低腰牛仔褲、工裝褲。",
+            "price": "790",
+            "picture": "https://www.gu-global.com/tw/hmall/test/u0000000008091/main/first/1000/1.jpg",
+            "discount": null,
+            "orderNum": null
+          }
+        ],
+        "categories": null,
+        "brands": null,
+        "saleProperties": null
+      }
+    ]
+  }
+]
 }
